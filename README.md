@@ -86,4 +86,4 @@ Ingress создан.
 
 При обращении к http://myingress.com/ получаю ответ от Nginx, при обращении к http://myingress.com/api получаю ответ от Multitool.
 
-4. Ссылка на манифест Ingress - https://github.com/DemoniumBlack/fedorchukds-devops-33-40/blob/main/SRC/ingress.yaml
+4. Ссылка на манифест Ingress - https://github.com/RikLedger/12-Kubernetes-05-hw/blob/main/SRC%20/ingress.yaml
