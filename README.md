@@ -54,11 +54,11 @@
 
 Приложения видят друг друга.
 
-5. Ссылка на манифест Deployment c frontend - https://github.com/DemoniumBlack/fedorchukds-devops-33-40/blob/main/SRC/deploy_front.yaml
+5. Ссылка на манифест Deployment c frontend - hhttps://github.com/RikLedger/12-Kubernetes-05-hw/blob/main/SRC%20/deploy_front.yaml
 
-   Ссылка на манифест Deployment c frontend - https://github.com/DemoniumBlack/fedorchukds-devops-33-40/blob/main/SRC/deploy_back.yaml
+   Ссылка на манифест Deployment c frontend - https://github.com/RikLedger/12-Kubernetes-05-hw/blob/main/SRC%20/deploy_back.yaml
 
-   Ссылка на манифест Service - https://github.com/DemoniumBlack/fedorchukds-devops-33-40/blob/main/SRC/service.yaml
+   Ссылка на манифест Service - https://github.com/RikLedger/12-Kubernetes-05-hw/blob/main/SRC%20/service.yaml
 
 ------
 
