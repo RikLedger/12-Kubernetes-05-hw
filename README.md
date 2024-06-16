@@ -54,7 +54,7 @@
 
 Приложения видят друг друга.
 
-5. Ссылка на манифест Deployment c frontend - hhttps://github.com/RikLedger/12-Kubernetes-05-hw/blob/main/SRC%20/deploy_front.yaml
+5. Ссылка на манифест Deployment c frontend - https://github.com/RikLedger/12-Kubernetes-05-hw/blob/main/SRC%20/deploy_front.yaml
 
    Ссылка на манифест Deployment c frontend - https://github.com/RikLedger/12-Kubernetes-05-hw/blob/main/SRC%20/deploy_back.yaml
 
